@@ -1,5 +1,4 @@
 document.querySelectorAll('.button').forEach(button => {
-
     let duration = 3000,
         svg = button.querySelector('svg'),
         svgPath = new Proxy({
